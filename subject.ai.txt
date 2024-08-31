@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>SUBJECT.AI</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>subject.ai</title>
+</head>
+<body>
+    <h1>Welcome to subject.ai</h1>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open URL Button</title>
+</head>
+<body>
+
+<button id="open-url-btn">Open ALL subject.ai</button>
+
+<script>
+    document.getElementById('open-url-btn').addEventListener('click', function() {
+        const url = 'https://sussybakakg.github.io/science.ai/';
+        
+        // Open the URL in a new tab
+        window.open(url, '_blank', 'noopener,noreferrer');
+    });
+</script>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open UR Button</title>
+</head>
+<body>
+
+<button id="open-url-btn"></button>
+
+<script>
+    document.getElementById('open-url-btn').addEventListener('click', function() {
+        const url = 'https://sussybakakg.github.io/english.ai/';
+        
+        // Open the URL 
+        window.open(url, '_blank', 'noopener,noreferrer');
+    });
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open URL Button</title>
+</head>
+<body>
+
+<button id="open-url-btn"></button>
+
+<script>
+    document.getElementById('open-url-btn').addEventListener('click', function() {
+        const url = 'https://sussybakakg.github.io/french.ai/';
+        
+        // Open the URL in a new tab
+        window.open(url, '_blank', 'noopener,noreferrer');
+    });
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open URL Button</title>
+</head>
+<body>
+
+<button id="open-url-btn"></button>
+
+<script>
+    document.getElementById('open-url-btn').addEventListener('click', function() {
+        const url = 'https://sussybakakg.github.io/math.ai/';
+        
+        // Open the URL in a new tab
+        window.open(url, '_blank', 'noopener,noreferrer');
+    });
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open URL Button</title>
+</head>
+<body>
+
+<button id="open-url-btn"></button>
+
+<script>
+    document.getElementById('open-url-btn').addEventListener('click', function() {
+        const url = 'https://sussybakakg.github.io/arabic.ai/';
+        
+        // Open the URL in a new tab
+        window.open(url, '_blank', 'noopener,noreferrer');
+    });
+</script>
+
+</body>
+</html>
